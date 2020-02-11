@@ -1,0 +1,36 @@
+<xml xmlns:v="urn:schemas-microsoft-com:vml"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:p="urn:schemas-microsoft-com:office:powerpoint"
+ xmlns:oa="urn:schemas-microsoft-com:office:activation">
+ <p:presentation sizeof="screen" gridspacingx="49152" gridspacingy="49152"
+  subsetembed="1">
+  <p:master id="3" slidesn="1CA53FB,19B35400" type="main" href="master03.htm"
+   xmlhref="master03.xml" template="153" layout="title_body"
+   slots="title,body,dateTime,footer,slideNumber">
+   <p:schemes>
+   </p:schemes>
+  </p:master>
+  <p:slide id="1" slidesn="1CA53FB,19B35400" href="slide0001.htm"/>
+  <p:slide id="13" slidesn="1CD63CE,F8FC4EB0" href="slide0013.htm"/>
+  <p:slide id="14" slidesn="1CD6499,66F72820" href="slide0014.htm"/>
+  <p:slide id="6" slidesn="1CD2423,ACF75CC0" href="slide0006.htm"/>
+  <p:slide id="3" slidesn="1CA53FC,17A4F0F0" href="slide0003.htm"/>
+  <p:slide id="10" slidesn="1CD2695,1B149A10" href="slide0010.htm"/>
+  <p:slide id="9" slidesn="1CD2423,B2CD0B90" href="slide0009.htm"/>
+  <p:slide id="7" slidesn="1CD2423,AE3A3D00" href="slide0007.htm"/>
+  <p:slide id="8" slidesn="1CD2423,AF962380" href="slide0008.htm"/>
+  <p:slide id="5" slidesn="1CD2423,A9BACF60" href="slide0005.htm"/>
+  <p:slide id="15" slidesn="1CDF55D,87715E90" href="slide0015.htm"/>
+  <p:viewstate type="slideView" notestextscale="1" restoredleft="127"
+   restoredtop="946" vertbarstate="2" manualadjustleft="t" hideoutlineicons="t"/>
+  <p:slideshowsettings pencolor="rgb(255,0,0)"/>
+  <p:headersfooters nouserdate="t" nofooter="t" noheader="t" nodate="t"
+   todaydate="t"/>
+  <p:headersfooters notes="t" nouserdate="t" nofooter="t" noheader="t"
+   nodate="t" todaydate="t"/>
+  <p:pptdocumentsettings framecolors="WhiteTextOnBlack" hideslideanimation="t"
+   browsersupport="v4"/>
+ </p:presentation>
+ <o:shapedefaults v:ext="edit" spidmax="12296">
+  <o:colormru v:ext="edit" colors="#693"/>
+ </o:shapedefaults></xml>
